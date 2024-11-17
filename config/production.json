@@ -1,0 +1,11 @@
+{
+    "app": {
+      "port": 8080
+    },
+    "cors": {
+      "origin": ["https://yourdomain.com"]
+    },
+    "logging": {
+      "level": "info"
+    }
+  }
